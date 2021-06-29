@@ -1,0 +1,11 @@
+h1 {
+  color: rgb(17, 0, 255);  
+}
+button{
+    color: red;
+    background-color: black;
+    border-color: black;
+}
+header{
+  background-color: red;
+}

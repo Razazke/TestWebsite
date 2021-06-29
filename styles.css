@@ -4,5 +4,5 @@ h1 {
 .headerButton{
 background-color: white;
     border-color: white;
-margin: 20px;
+    padding-inline: 20px;
 }
